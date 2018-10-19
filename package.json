@@ -1,0 +1,22 @@
+{
+  "name": "node-socket-io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "dev": "nodemon server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtyanan/node-socket-io.git"
+  },
+  "author": "Terry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wtyanan/node-socket-io/issues"
+  },
+  "homepage": "https://github.com/wtyanan/node-socket-io#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
